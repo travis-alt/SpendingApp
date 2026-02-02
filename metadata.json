@@ -1,0 +1,7 @@
+{
+  "name": "SmartSpend: AI Monthly Tracker",
+  "description": "A sophisticated monthly expense tracker featuring AI-powered categorization, multi-user workspace sharing, and interactive financial visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
